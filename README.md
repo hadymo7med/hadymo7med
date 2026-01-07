@@ -3,7 +3,7 @@
 # 『 HADY MO 』
 ### ⚡ Software Engineer | GDGoC Campus Lead | Huawei Ambassador ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Engineer+%40+M.Emar.Co;Leader+%40+GDG+On+Campus+;Huawei+Student+Ambassador;Flutter+%26+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Engineer+%40+M.Emar.Co+SA;Leader+%40+GDG+On+Campus+FA;Huawei+Student+Ambassador;Flutter+%26+Full+Stack+Developer" alt="Typing SVG" />
 
 ---
 <div align="center">
@@ -115,4 +115,21 @@ My journey involves leading large-scale technical communities, organizing impact
   
 ![Profile Views](https://komarev.com/ghpvc/?username=hadymo7med&color=00f7f7&style=flat-square&label=PROFILE+VIEWS)
 
+
+
+<br />
+
+<div align="center">
+
+⚠️ INITIATING SYSTEM SHUTDOWN...
+> SAVING LEGACY... 100%
+> DISCONNECTING NEURAL LINK...
+> SESSION TERMINATED.
+<br/>
+"The best way to predict the future is to create it."
+— Alan Kay
+
+<br />
+
+© 2026 Hady Mohamed. All Systems Offline. █
 </div>
