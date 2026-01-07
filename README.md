@@ -6,6 +6,28 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Engineer+%40+M.Emar.Co;Leader+%40+GDG+On+Campus+;Huawei+Student+Ambassador;Flutter+%26+Full+Stack+Developer" alt="Typing SVG" />
 
 ---
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/hadymo7med/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://developers.google.com/profile/u/me">
+    <img src="https://img.shields.io/badge/Google_Dev_Profile-%234285F4.svg?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Developers" />
+  </a>
+
+  <a href="https://www.instagram.com/hadymo7med/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+
+  <a href="https://www.facebook.com/share/1JyCmikYVY/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+</div>
+
+
 ## 🧬 『 THE CORE PROTOCOL 』
 
 > **"The best of people are those most beneficial to others."**
